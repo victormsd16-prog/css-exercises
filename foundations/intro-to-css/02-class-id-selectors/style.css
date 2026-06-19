@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.redones {
+    background-color: rgb(223, 146, 146);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.redbig {
+    font-size: 24px;
+}
+
+#blueone {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenone {
+    background-color: rgb(122, 227, 122);
+    font-weight: bold;
+}
